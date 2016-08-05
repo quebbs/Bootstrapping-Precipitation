@@ -8,7 +8,10 @@
 #
 
 title: "An Applied Method for Synthetic Spatially Distributed Continuous Precipitation Development"
-abstract: "here is the abstract"
+abstract: "Spatially distributed synthetic continuous precipitation requires the maintenance of
+spatial and temporal correlations, in addition to seasonal variations of the distributions and correlative
+structure. Here, we present a means of developing a unique synthetic precipitation series using an event-
+based bootstrapping approach with distribution sampling and scaling."
 
 # This controls which file is shown on the right-hand side of the published
 # HTML page.  By default it will take the first PDF or HTML file that it
