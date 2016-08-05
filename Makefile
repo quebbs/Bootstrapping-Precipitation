@@ -3,8 +3,9 @@ all: pdf
 clean:
 	@rm -f *.aux *.log *.dvi *.bbl *.blg *.out *.toc main.pdf
     
-pdf: main.pdf
-
-main.pdf: main.tex
-	pdflatex main.tex
-	pdflatex main.tex
+default: paper
+	
+paper:
+	pdflatex  --shell-escape main
+	bibtex main
+	pdflatex  --shell-escape main
