@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bardossy1998}
+Andras Bardossy.
+\newblock Generating precipitation time series using simulated annealing.
+\newblock {\em Water Resources Research}, 34(7):1737--1744, 1998.
+
+\bibitem{Buishand2001}
+T.~A Buishand and Theo Brandsma.
+\newblock Multisite simulation of daily precipitation and temperature in the
+  rhine basin by nearest-neighbor resampling.
+\newblock {\em Water Resources Research}, 37(11):2761--2776, 2001.
+
+\bibitem{Efron1998}
+Bradley Efron and Robert Tibshirani.
+\newblock {\em An Introduction to the Bootstrap}.
+\newblock 1998.
+
+\bibitem{Lall1996}
+Upmanu Lall and Ashish Sharma.
+\newblock A nearest neighbor bootstrap for resampling hydrologic time series.
+\newblock {\em Water Resources Research}, 32(3):679--693, 1996.
+
+\bibitem{Rajagopalan1999}
+Balaji Rajagopalan and Upmanu Lall.
+\newblock A k-nearest-neighbor simulator for daily precipitation and other
+  weather variables.
+\newblock {\em Water Resources Research}, 35(10):3089--3101, 1999.
+
+\bibitem{Salas1980}
+J.D. Salas, J.W. Delleur, V.~Yevjevich, and W.L. Lane.
+\newblock {\em Applied Modeling of Hydrologic Time Series}.
+\newblock Water Resources Publications, 1980.
+
+\end{thebibliography}
