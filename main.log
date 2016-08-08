@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.29)  4 AUG 2016 22:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.29)  7 AUG 2016 23:03
 entering extended mode
 **C:/Users/quebbs/Documents/GitHub/Bootstrapping-Precipitation/main.tex
 (C:/Users/quebbs/Documents/GitHub/Bootstrapping-Precipitation/main.tex
@@ -510,82 +510,84 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/quebbs/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-LaTeX Warning: Citation `Foufoula-Georgiou1987' on page 2 undefined on input li
-ne 76.
-
-
-LaTeX Warning: Citation `Rod-Iturbe1987' on page 2 undefined on input line 80.
-
-
-Overfull \hbox (14.54259pt too wide) in paragraph at lines 86--87
+Overfull \hbox (14.54259pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10.95 Further, many pow-er-ful syn-thetic gen-er-a-tion tech-niq
 ues are avail-able for point-processes,
  []
 
-[2] [3]
+[2] <./Figures/SampleBreaks.png, id=12, 570.63188pt x 409.53pt>
+File: ./Figures/SampleBreaks.png Graphic file (type png)
+
+<use ./Figures/SampleBreaks.png>
+Package pdftex.def Info: ./Figures/SampleBreaks.png used on input line 108.
+(pdftex.def)             Requested size: 399.43959pt x 286.66904pt.
+ [3] [4 <./Figures/SampleBreaks.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 106.
- [4] [5]
-<./Figures/ACF_Monthly_Totals.png, id=26, 602.25pt x 501.875pt>
+(Font)              <10.95> on input line 117.
+
+<./Figures/Percentile_Fits.png, id=22, 1011.78pt x 722.7pt>
+File: ./Figures/Percentile_Fits.png Graphic file (type png)
+
+<use ./Figures/Percentile_Fits.png>
+Package pdftex.def Info: ./Figures/Percentile_Fits.png used on input line 138.
+(pdftex.def)             Requested size: 404.70483pt x 289.07487pt.
+ [5] [6 <./Figures/Percentile_Fits.png>]
+[7] <./Figures/ACF_Monthly_Totals.png, id=39, 602.25pt x 501.875pt>
 File: ./Figures/ACF_Monthly_Totals.png Graphic file (type png)
 
 <use ./Figures/ACF_Monthly_Totals.png>
-Package pdftex.def Info: ./Figures/ACF_Monthly_Totals.png used on input line 15
-9.
+Package pdftex.def Info: ./Figures/ACF_Monthly_Totals.png used on input line 17
+7.
 (pdftex.def)             Requested size: 421.57211pt x 351.31009pt.
 
-Overfull \hbox (3.31844pt too wide) in paragraph at lines 159--160
+Overfull \hbox (3.31844pt too wide) in paragraph at lines 177--178
  [] 
  []
 
-[6] [7 <./Figures/ACF_Monthly_Totals.png>]
-<./Figures/Hist_DF_Comparison_Month9.png, id=35, 578.16pt x 397.485pt>
+[8] [9 <./Figures/ACF_Monthly_Totals.png>]
+<./Figures/Hist_DF_Comparison_Month9.png, id=47, 578.16pt x 397.485pt>
 File: ./Figures/Hist_DF_Comparison_Month9.png Graphic file (type png)
 
 <use ./Figures/Hist_DF_Comparison_Month9.png>
 Package pdftex.def Info: ./Figures/Hist_DF_Comparison_Month9.png used on input 
-line 174.
+line 192.
 (pdftex.def)             Requested size: 404.70924pt x 278.2376pt.
 
-<./Figures/Monthly_Max_Prec3.png, id=37, 1228.59pt x 361.35pt>
+<./Figures/Monthly_Max_Prec3.png, id=48, 1228.59pt x 361.35pt>
 File: ./Figures/Monthly_Max_Prec3.png Graphic file (type png)
 
 <use ./Figures/Monthly_Max_Prec3.png>
-Package pdftex.def Info: ./Figures/Monthly_Max_Prec3.png used on input line 185
+Package pdftex.def Info: ./Figures/Monthly_Max_Prec3.png used on input line 203
 .
 (pdftex.def)             Requested size: 614.2935pt x 180.67456pt.
 
-Overfull \hbox (196.03983pt too wide) in paragraph at lines 185--187
+Overfull \hbox (196.03983pt too wide) in paragraph at lines 203--205
  [] 
  []
 
-[8 <./Figures/Hist_DF_Comparison_Month9.png>] (main.bbl [9 <./Figures/Monthly_M
-ax_Prec3.png>]) [10] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[10 <./Figures/Hist_DF_Comparison_Month9.png>] (main.bbl [11 <./Figures/Monthly
+_Max_Prec3.png>]) [12] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3868 strings out of 493673
- 57738 string characters out of 3143957
- 127745 words of memory out of 3000000
- 7178 multiletter control sequences out of 15000+200000
- 9451 words of font info for 33 fonts, out of 3000000 for 9000
+ 3882 strings out of 493673
+ 58094 string characters out of 3143957
+ 127784 words of memory out of 3000000
+ 7191 multiletter control sequences out of 15000+200000
+ 9143 words of font info for 32 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  44i,11n,43p,1023b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (10 pages, 209811 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (12 pages, 1025883 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

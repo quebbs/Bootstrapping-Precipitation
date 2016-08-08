@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Bardossy1998}
 Andras Bardossy.
@@ -11,10 +11,20 @@ T.~A Buishand and Theo Brandsma.
   rhine basin by nearest-neighbor resampling.
 \newblock {\em Water Resources Research}, 37(11):2761--2776, 2001.
 
+\bibitem{Cunnane1978}
+C.~Cunnane.
+\newblock Unbiased plotting positions - a review.
+\newblock {\em Journal of Hydrology}, 37(3-4), 1978.
+
 \bibitem{Efron1998}
 Bradley Efron and Robert Tibshirani.
 \newblock {\em An Introduction to the Bootstrap}.
 \newblock 1998.
+
+\bibitem{Foufoula-Georgiou1987}
+Efi Foufoula-Georgiou and Dennis~P. Lennenmaier.
+\newblock A markov renewal model for rainfall occurrences.
+\newblock {\em Water Resources Research}, 23(5), 1987.
 
 \bibitem{Lall1996}
 Upmanu Lall and Ashish Sharma.
@@ -27,9 +37,32 @@ Balaji Rajagopalan and Upmanu Lall.
   weather variables.
 \newblock {\em Water Resources Research}, 35(10):3089--3101, 1999.
 
+\bibitem{Rodriguez-Iturbe1987}
+Ignacio Rodriguez-Iturbe, D.~R. Cox, and Valerie Isham.
+\newblock Some models for rainfall based on stochastic point processes.
+\newblock {\em Proceedings of the Royal Society of London. Series A,
+  Mathematical and Physical Sciences}, 410(1839), 1987.
+
 \bibitem{Salas1980}
 J.D. Salas, J.W. Delleur, V.~Yevjevich, and W.L. Lane.
 \newblock {\em Applied Modeling of Hydrologic Time Series}.
 \newblock Water Resources Publications, 1980.
+
+\bibitem{Santner1973}
+Joseph~F. Santner.
+\newblock An introduction to gumbel, or extreme-value probability paper.
+\newblock Technical report, U.S. Environmental Protection Agency, 1973.
+
+\bibitem{Wilks1998}
+D.S. Wilks.
+\newblock Multisite generalization of a daily stochastic precipitation
+  generation model.
+\newblock {\em Journal of Hydrology}, 210, 1998.
+
+\bibitem{Wilks1999}
+D.S. Wilks.
+\newblock Multisite downscaling of daily precipitation with a stochastic
+  weather generator.
+\newblock {\em Climate Research}, 11:125--136, 1999.
 
 \end{thebibliography}
